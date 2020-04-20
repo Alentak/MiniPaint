@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<ArrayOfForme xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Forme xsi:type="MonRectangle">
+    <intCouleur>-16777216</intCouleur>
+    <Origine>
+      <X>294</X>
+      <Y>209</Y>
+    </Origine>
+    <Taille>
+      <Width>431</Width>
+      <Height>322</Height>
+    </Taille>
+    <Filled>false</Filled>
+    <Epaisseur>1</Epaisseur>
+  </Forme>
+</ArrayOfForme>

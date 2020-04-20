@@ -1,0 +1,9 @@
+C:\Users\Paul\OneDrive - Cégep de La Pocatière\2019-2020\Structure de données\MiniPaint\bin\Debug\MiniPaint.exe.config
+C:\Users\Paul\OneDrive - Cégep de La Pocatière\2019-2020\Structure de données\MiniPaint\bin\Debug\MiniPaint.exe
+C:\Users\Paul\OneDrive - Cégep de La Pocatière\2019-2020\Structure de données\MiniPaint\bin\Debug\MiniPaint.pdb
+C:\Users\Paul\OneDrive - Cégep de La Pocatière\2019-2020\Structure de données\MiniPaint\obj\Debug\MiniPaint.Home.resources
+C:\Users\Paul\OneDrive - Cégep de La Pocatière\2019-2020\Structure de données\MiniPaint\obj\Debug\MiniPaint.Properties.Resources.resources
+C:\Users\Paul\OneDrive - Cégep de La Pocatière\2019-2020\Structure de données\MiniPaint\obj\Debug\MiniPaint.csproj.GenerateResource.cache
+C:\Users\Paul\OneDrive - Cégep de La Pocatière\2019-2020\Structure de données\MiniPaint\obj\Debug\MiniPaint.exe
+C:\Users\Paul\OneDrive - Cégep de La Pocatière\2019-2020\Structure de données\MiniPaint\obj\Debug\MiniPaint.pdb
+C:\Users\Paul\OneDrive - Cégep de La Pocatière\2019-2020\Structure de données\MiniPaint\obj\Debug\MiniPaint.csprojAssemblyReference.cache
